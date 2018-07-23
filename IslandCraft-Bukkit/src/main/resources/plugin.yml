@@ -1,0 +1,12 @@
+name: IslandCraft
+version: 1.0.8
+description: Changes the biome distribution of the world to create an ocean with islands
+author: hoqhuuep
+website: http://dev.bukkit.org/bukkit-plugins/islandcraft/
+main: com.github.hoqhuuep.islandcraft.bukkit.IslandCraftPlugin
+load: STARTUP
+api-version: 1.13
+commands:
+    ic:
+      description: IslandCraft commands
+      aliases: [island,islandcraft]

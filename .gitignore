@@ -1,0 +1,13 @@
+**/bin/
+**/build/
+**/.settings/
+/.checkstyle/
+/.gradle/
+*.class
+*.classpath
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar
+*.project
+*.iml
+.idea
+.idea/modules/

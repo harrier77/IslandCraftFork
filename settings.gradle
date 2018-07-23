@@ -1,0 +1,5 @@
+include 'IslandCraft-API'
+include 'IslandCraft-Common'
+include 'IslandCraft-Bukkit'
+include 'IslandCraft-NMS'
+include 'IslandCraft-NMS-v1_13_R1'
